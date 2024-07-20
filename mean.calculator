@@ -1,0 +1,12 @@
+ > name <- "Sharad"
+  > age <- 35
+  > name = "sharadkhare"
+  > name <- "Sharad"
+  > name
+  [1] "Sharad"
+  > print(name)
+  [1] "Sharad"
+  > name
+  [1] "Sharad"
+  > print(name)
+  [1] "Sharad"
